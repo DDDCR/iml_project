@@ -6,13 +6,21 @@ find features, ['MW', 'NumOfAtoms', 'NumOfC', 'NumOfO', 'NumHBondDonors', 'NumOf
 
 ## module_eva.py
 evaluate the model of linear regression, redge regression, and random forrest with r2 and rmse.
+
 result:
+
 Linear Regression R^2 Score: 0.6372
+
 Linear Regression RMSE: 1.8809
+
 Ridge Regression R^2 Score: 0.6372
+
 Ridge Regression RMSE: 1.8809
+
 Random Forest R^2 Score: 0.6603
+
 Random Forest RMSE: 1.8201
+
 
 ## RF.py
 the result saved in submission.csv file
