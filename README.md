@@ -21,6 +21,7 @@ Random Forest RMSE: 1.8201
 
 ## RF.py
 the result saved in submission.csv file
-kaggle score = 0.6753
 
-the fine tuned RF model got the score = 0.6771
+After fine tuning RF model, the best parameters as {'max_depth': 10, 'max_features': 'sqrt', 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 300} 
+
+kaggle score = 0.6771
